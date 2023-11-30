@@ -1,6 +1,6 @@
 // conditionalstatements :
 // based on our conditions we can executes the statements
-// if,else if,else
+// if,else if else
 
 const bikeshop=67
 if(bikeshop>0&&bikeshop<=10){
