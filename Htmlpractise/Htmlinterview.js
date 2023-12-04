@@ -49,4 +49,4 @@
 // Attributes are inserted in the opening tags of the elements and have a name-Value pair.
 // name is used to specified the property.
 // value is defined the value of the property.
-// Ex: <a>,<href>,src,<img>
+// Ex: <a>,<href>,src,<img>.
