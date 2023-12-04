@@ -42,3 +42,11 @@
 
 // *Semantic tags are also called as Html tags which adds the meaningful name to the tag also,it helps the browsers and developers understand the document's Organization.
 // =========================================================================================================================================================
+
+// what are attributes in html?
+
+// *In Html attributes is a Piece of markup language which is used to adjust the behaviour of an html element.
+// Attributes are inserted in the opening tags of the elements and have a name-Value pair.
+// name is used to specified the property.
+// value is defined the value of the property.
+// Ex: <a>,<href>,src,<img>
